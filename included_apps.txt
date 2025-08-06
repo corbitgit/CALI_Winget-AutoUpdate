@@ -29,7 +29,6 @@ Adobe.Acrobat.Reader.32-bit*
 Adobe.Acrobat.Reader.64-bit*
 Adobe.AdobeConnect*
 Adobe.CreativeCloud*
-Anaconda.Anaconda3
 Autodesk.AutodeskAccess*
 BelgianGovernment.Belgium-eIDmiddleware*
 BelgianGovernment.eIDViewer*
@@ -44,13 +43,13 @@ Foxit.FoxitReader*
 Foxit.PhantomPDF*
 Google.Chrome*
 Greenshot.Greenshot*
-Inkscape.Inkscape
 Jabra.Direct*
 JGraph.Draw*
 JetBrains.Rider*
 JetBrains.ReSharper*
 JetBrains.dotUltimate*
 Logitech.GHUB*
+Logitech.OptionsPlus*
 MartiCliment.UniGetUI*
 Microsoft.DotNet.AspNetCore.6*
 Microsoft.DotNet.AspNetCore.7*
