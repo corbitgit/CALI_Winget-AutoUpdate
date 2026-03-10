@@ -105,6 +105,7 @@ SublimeHQ.SublimeText*
 TeamViewer.TeamViewer*
 VideoLAN.VLC*
 WhatsApp.WhatsApp*
+Wibu-Systems.CodeMeterRuntimeKit*
 WiresharkFoundation.Wireshark*
 XP89DCGQ3K6VLD*
 XP8BT8DW290MPQ*
