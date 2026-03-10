@@ -98,6 +98,7 @@ OSGeo.QGIS*
 PuTTY.PuTTY*
 Piriform.Speccy*
 RevoUninstaller.RevoUninstaller
+ShiningLight.OpenSSL.Dev*
 Spotify.Spotify*
 Stremio.Stremio*
 SublimeHQ.SublimeMerge*
