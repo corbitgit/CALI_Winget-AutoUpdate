@@ -24,6 +24,7 @@
 9WZDNCRDJ8LH*
 9WZDNCRDNFK5*
 9WZDNCRFJ4MV*
+Anaconda.Anaconda3*
 Adobe.Acrobat.Pro*
 Adobe.Acrobat.Reader.32-bit*
 Adobe.Acrobat.Reader.64-bit*
